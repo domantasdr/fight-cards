@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+
+button {
+    height: 100px;
+    color: purple;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Rubik Mono One', monospace;
+    background-color: greenyellow;
+    border: 4px solid black;
+    cursor: pointer;
+}
+h1 {
+    font-size: 60px;
+    font-family: 'Rubik Mono One', monospace;
+    border: 5px solid black;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border: 10px solid purple; 
+    display: inline-block; 
+    position: relative;
+    top: -200px;
+    left: 20px;
+    
+}
+
+li {
+    font-size: 25px;
+    position: relative;
+    left: 250px;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+.ap {
+    width: 200px;
+    height: auto;
+}
